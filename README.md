@@ -1,5 +1,3 @@
-# FIFA-WORLD-CUP-DRAW-PREDICTION
-
 <div align="center">
 
 # 🏆 FIFA World Cup 2026 Draw Simulator
